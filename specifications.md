@@ -1,4 +1,4 @@
-# Specifikācija
+# Specifikācijas
 
 ## Risinājuma apraksts
 Risinājums palīdzēs skolēniem veiksmīgāk pabeigt skolu. Nosaukums būs 
